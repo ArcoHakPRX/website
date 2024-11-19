@@ -27,11 +27,11 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .menustyle1 { position:absolute; width:38px; height:39px; left:10px;  }
 .menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:34px;  }
 .textstyle4 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
-.menustyle2 { position:absolute; width:98px; height:39px; left:10px;  }
+.menustyle2 { position:absolute; width:115px; height:39px; left:10px;  }
 .menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:19px;  }
 .textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  white-space: nowrap; }
-.menustyle3 { position:absolute; width:87px; height:39px; left:108px;  }
+.menustyle3 { position:absolute; width:87px; height:39px; left:125px;  }
 .textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-style:italic; font-weight:bold;  white-space: nowrap; }
-.menustyle4 { position:absolute; width:124px; height:39px; left:195px;  }
-.menustyle5 { position:absolute; width:115px; height:39px; left:319px;  }
+.menustyle4 { position:absolute; width:124px; height:39px; left:212px;  }
+.menustyle5 { position:absolute; width:115px; height:39px; left:336px;  }
 .textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
